@@ -1,2 +1,3 @@
 # verification-bot-tr
-Bu bir verification botudur.
+
+   - Discord: [Ghost Development](https://discord.gg/delimine)
